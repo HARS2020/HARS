@@ -1,0 +1,50 @@
+Elevator::begin - its time to press a button
+*** Someone on floor 3 wants to go to 5
+Lift 1 is now moving UP
+Elevator::begin - its time to press a button
+*** Someone on floor 2 wants to go to 1
+Lift 1 now on 2
+Lift 0 is now moving UP
+Lift 1 now on 3
+Lift 1 picking up 1 passengers on 3
+Lift 0 now on 2
+Lift 0 picking up 1 passengers on 2
+Lift 0 changing to DOWN
+Elevator::begin - its time to press a button
+*** Someone on floor 8 wants to go to 2
+Lift 1 now on 4
+Lift 0 now on 1
+Lift 0 delivering 1 passengers on 1
+Lift 0 becoming IDLE
+Lift 0 is now moving UP
+Elevator::begin - its time to press a button
+*** Someone on floor 6 wants to go to 4
+Lift 1 now on 5
+Lift 1 delivering 1 passengers on 5
+Lift 1 becoming IDLE
+Lift 1 is now moving UP
+Lift 0 now on 2
+Lift 1 now on 6
+Lift 1 picking up 1 passengers on 6
+Lift 1 changing to DOWN
+Lift 0 now on 3
+Lift 1 now on 5
+Lift 0 now on 4
+Lift 1 now on 4
+Lift 1 delivering 1 passengers on 4
+Lift 1 becoming IDLE
+Lift 0 now on 5
+Lift 0 now on 6
+Lift 0 now on 7
+Lift 0 now on 8
+Lift 0 picking up 1 passengers on 8
+Lift 0 changing to DOWN
+Lift 0 now on 7
+Lift 0 now on 6
+Lift 0 now on 5
+Lift 0 now on 4
+Lift 0 now on 3
+Lift 0 now on 2
+Lift 0 delivering 1 passengers on 2
+Lift 0 becoming IDLE
+Time taken in ms : 23707
